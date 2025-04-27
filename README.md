@@ -1,1 +1,1 @@
-This project is based off of this [YouTube video](https://www.youtube.com/watch?v=Ml-B-W91gtw) by [WeCoded](https://www.youtube.com/@WeCoded). But was converted from using TypeScript and Sass to plain JavaScript and CSS.
+# This project is based off of this [YouTube video](https://www.youtube.com/watch?v=Ml-B-W91gtw) by [WeCoded](https://www.youtube.com/@WeCoded). But was converted from using TypeScript and Sass to plain JavaScript and CSS.
